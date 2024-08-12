@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    box-shadow: 0 0 5px;
+}
+
+.Caixa {
+    position: relative;
+    top: 100px;
+    left: 600px;
+    height: 530px;
+    width: 600px;
+    background: transparent;
+    border: 100px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px;
+    color: rgb(240, 234, 234);
+    border-radius: 100px;
+    padding: 10px 40px;
+    background-color: rgb(58, 14, 14);
+}
+
+input {
+    border-radius: 100px;
+}
